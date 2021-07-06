@@ -7,10 +7,11 @@ This repo showcases the smart mask the my team and I developed during my senior 
  * Amplify the users voice for when background nosie is present
  * LED grid and voice amplfication can be both powered on/off seperately
 
-## Demo
+## Schematic
 <p align="center">
-<img width="700" height="500" src="images/scheme.PNG">
+<img width="700" height="600" src="images/scheme.PNG">
 </p>
+## Demo
 <p align="center">
 <img width="700" height="500" src="images/smartg.gif">
 </p>
