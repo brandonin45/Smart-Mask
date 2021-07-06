@@ -9,6 +9,9 @@ This repo showcases the smart mask the my team and I developed during my senior 
 
 ## Demo
 <p align="center">
+<img width="700" height="500" src="images/scheme.PNG">
+</p>
+<p align="center">
 <img width="700" height="500" src="images/smartg.gif">
 </p>
 
