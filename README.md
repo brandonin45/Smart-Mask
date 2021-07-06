@@ -9,7 +9,7 @@ This repo showcases the smart mask the my team and I created during my senior ye
 
 ## Demo
 <p align="center">
-<img width="600" height="800" src="images/smartg.gif">
+<img width="600" height="600" src="images/smartg.gif">
 </p>
 
 Link to full video: https://drive.google.com/file/d/14xntAl6OCvYKrbQUOCx-AK68CgFH8LZC/view?usp=sharing
