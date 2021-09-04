@@ -1,5 +1,5 @@
 # Smart-Mask
-This repo showcases the smart mask the my team and I developed during my senior year of college (2021). The mask was built with an arduino nano, LED panel, microphones, speakers, switches and programmed with C/C++. The purpose of this project was to alleviate the missing interactions that result when communicating with face masks. 
+This repo showcases my smart mask design project that my team and I developed during my senior year of college (2021). The mask was built with an arduino nano, LED panel, microphones, speakers, switches and programmed with C/C++. The purpose of this project was to alleviate the missing interactions that result when communicating with face masks. 
 
 ## Functions
  * When the user speaks, the LEDs will display a talking motion
